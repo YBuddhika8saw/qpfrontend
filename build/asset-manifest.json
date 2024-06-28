@@ -1,34 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.868b4534.css",
-    "main.js": "/static/js/main.7abb92dc.js",
+    "main.js": "/static/js/main.97a383cd.js",
     "static/js/213.59d815ff.chunk.js": "/static/js/213.59d815ff.chunk.js",
     "static/js/732.e3f3100b.chunk.js": "/static/js/732.e3f3100b.chunk.js",
     "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
     "static/media/addQuestionsBg.jpg": "/static/media/addQuestionsBg.c03754b37b56132dd95b.jpg",
-    "static/media/rm347-porpla-02-a-01.jpg": "/static/media/rm347-porpla-02-a-01.c03754b37b56132dd95b.jpg",
-    "static/media/Screenshot from 2024-06-22 16-01-35.png": "/static/media/Screenshot from 2024-06-22 16-01-35.8a8bc5c2ac7a26486480.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
-    "static/media/SL map.png": "/static/media/SL map.3ecc1c52379ff18238f1.png",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
-    "static/media/Sri_Lanka_Western_Province_locator_map.svg.png": "/static/media/Sri_Lanka_Western_Province_locator_map.svg.b264d62b9d8a82e7a1dd.png",
-    "static/media/indiaflsg.jpg": "/static/media/indiaflsg.5a6d6490c87be8544c8a.jpg",
-    "static/media/360_F_286933709_B08Z0FymzypXREDHB8YkCD7UgNakqKOs.jpg": "/static/media/360_F_286933709_B08Z0FymzypXREDHB8YkCD7UgNakqKOs.2ce34aa0492bde65a83b.jpg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/index.html",
     "main.868b4534.css.map": "/static/css/main.868b4534.css.map",
-    "main.7abb92dc.js.map": "/static/js/main.7abb92dc.js.map",
+    "main.97a383cd.js.map": "/static/js/main.97a383cd.js.map",
     "213.59d815ff.chunk.js.map": "/static/js/213.59d815ff.chunk.js.map",
     "732.e3f3100b.chunk.js.map": "/static/js/732.e3f3100b.chunk.js.map",
     "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.868b4534.css",
-    "static/js/main.7abb92dc.js"
+    "static/js/main.97a383cd.js"
   ]
 }
